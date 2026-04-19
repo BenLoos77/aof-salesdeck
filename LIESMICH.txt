@@ -1,0 +1,35 @@
+AOF — Vertriebspräsentation
+============================
+
+IN DIESEM PAKET:
+
+  AOF-Sales-Deck.html   – Interaktive Präsentation (empfohlen)
+  AOF-Sales-Deck.pdf    – PDF-Fallback für maximale Kompatibilität
+
+
+EMPFOHLEN: INTERAKTIVE VERSION
+-------------------------------
+Datei "AOF-Sales-Deck.html" per Doppelklick öffnen
+  → startet im Standard-Browser (Chrome, Safari, Firefox, Edge)
+
+Bedienung im Gespräch:
+  F              Vollbild an/aus
+  Pfeil rechts   weiter
+  Pfeil links    zurück
+  H              Zurück zur Rollenauswahl
+  N              Präsentator-Notizen ein/aus
+  Esc            Notizen schließen
+
+Die Präsentation funktioniert komplett offline.
+Keine Installation nötig.
+
+
+PDF-FALLBACK
+-------------
+Wenn das HTML auf einem Gerät nicht öffnet: nutzen Sie die PDF.
+Alle Folien linear, ohne interaktive Navigation.
+Funktioniert auf jedem Gerät (Handy, Tablet, Drucker).
+
+
+AOF — ADonFLOOR
+kontakt@aof.com
